@@ -1,6 +1,6 @@
 package DSA;
 
-public class search {
+public class linear {
 
         public static int findElement(int[] arr, int x) {
             // Traverse the array
@@ -21,5 +21,5 @@ public class search {
             int x2 = 9;
             System.out.println(findElement(arr2, x2)); // Output: -1
         }
-}
 
+}
