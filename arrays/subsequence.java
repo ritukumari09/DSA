@@ -1,6 +1,5 @@
-import java.util.Arrays;
-
-public class IncreasingSequence {
+import java.util.*;
+public class subsequence {
     class Solution {
     public int findNumberOfLIS(int[] nums) {
         int n = nums.length;
@@ -56,3 +55,5 @@ Input: nums = [2,2,2,2,2]
 Output: 5
 Explanation: The length of the longest increasing subsequence is 1, and there are 5 increasing subsequences of length 1, so output 5.
  */
+
+}
